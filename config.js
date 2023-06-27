@@ -20,11 +20,11 @@ global.stickauth = '© shanachan'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/rizaedtz01'
 global.sgh = 'https://github.com/rizaedtz01'
-global.sgc = 'https://chat.whatsapp.com/LAWdMIQri9SKee5kqmISH0'
+global.sgc = 'https://chat.whatsapp.com/FmZYfWzDxE9AmbOCJb6GSr'
 // Donasi
 global.psaweria = 'https://saweria.co/NakanoBot'
 global.ptrakterr = 'https://trakteer.id/NakanoBot'
-global.povo = '0896-1075-0607'
+global.povo = '0859-7423-8938'
 // Info Wait
 global.wait = '_Sedang Di Proses, Mohon Tunggu_....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
